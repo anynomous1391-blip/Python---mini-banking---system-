@@ -1,2 +1,11 @@
-# Python---mini-banking---system-
-My project is based of python I make using if else elif and loops
+# Python---mini-banking---system
+features 
+withdraw money 
+deposit money
+
+uses function 
+loop
+if,elif,else
+asthmatic operator 
+
+author chhewang 
